@@ -5,6 +5,6 @@ shared_writable_dirs:
 php_extensions:
     - mysql
 
-document_root: www
+document_root: /
 default_gateway: index.php
 
