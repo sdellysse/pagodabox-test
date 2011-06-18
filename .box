@@ -6,4 +6,5 @@ php_extensions:
     - mysql
 
 default_gateway: www/index.php
+
 document_root: /www
