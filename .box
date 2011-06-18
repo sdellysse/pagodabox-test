@@ -1,0 +1,9 @@
+shared_writable_dirs:
+    - /application/logs
+    - /uploads
+
+php_extensions:
+    - mysql
+
+default_gateway: index.php
+document_root: /www
