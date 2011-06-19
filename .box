@@ -1,3 +1,5 @@
+document_root: /www/
+default_gateway: index.php
 shared_writable_dirs:
     - /application/logs
     - /uploads
