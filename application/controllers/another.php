@@ -2,6 +2,7 @@
 
 class another extends CI_Controller {
     function test () {
+        $this->load->library('session');
         echo 'another/test';
     }
 
