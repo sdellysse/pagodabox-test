@@ -3,6 +3,7 @@
 class another extends CI_Controller {
     function test () {
         $this->load->library('session');
+        $this->session->set_userdata('key', 'value');
         echo 'another/test';
     }
 
