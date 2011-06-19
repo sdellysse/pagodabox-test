@@ -1,6 +1,0 @@
-shared_writable_dirs:
-    - /application/logs
-    - /uploads
-
-php_extensions:
-    - mysql
