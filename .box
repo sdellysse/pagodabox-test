@@ -1,5 +1,4 @@
-document_root: /www-root
-default_gateway: application.php
-
 shared_writable_dirs:
     - /application/logs
+
+
